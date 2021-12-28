@@ -1,0 +1,584 @@
+Month,Category,Items,Budget,Expenses,Difference
+"January, 2021",Groceries,Vegetables,1500,1360,140
+"January, 2021",Groceries,Grains,4000,3890,110
+"January, 2021",Groceries,Milk,2000,2500,-500
+"January, 2021",Groceries,Dairy Products,500,500,0
+"January, 2021",Groceries,Groceries Miscellenous,1000,120,880
+"January, 2021",Utility and Fuel,Electricity,1500,1230,270
+"January, 2021",Utility and Fuel,Gas,1600,800,800
+"January, 2021",Utility and Fuel,Petrol,4000,4500,-500
+"January, 2021",Communication,Phone,1000,904,96
+"January, 2021",Communication,Internet (Half-Yearly),5000,4832,168
+"January, 2021",Transport,Local,500,235,265
+"January, 2021",Transport,Non-Local,3000,3543,-543
+"January, 2021",Services,Laundry,200,158,42
+"January, 2021",Services,Gardening,500,500,0
+"January, 2021",Services,Cleaning,650,570,80
+"January, 2021",Services,Trash,550,500,50
+"January, 2021",Services,Stationary,200,190,10
+"January, 2021",Maintainance,Society,10000,8734,1266
+"January, 2021",Maintainance,Repairs,3000,3422,-422
+"January, 2021",Maintainance,Security,30000,30000,0
+"January, 2021",Maintainance,Home improvements,3000,1232,1768
+"January, 2021",New Purchases,Apparel,5000,4000,1000
+"January, 2021",New Purchases,Home Appliances,2000,1500,500
+"January, 2021",New Purchases,Vehicle,0,0,0
+"January, 2021",Personal Expenses,Person 1,1000,200,800
+"January, 2021",Personal Expenses,Person 2,1000,534,466
+"January, 2021",Personal Expenses,Person 3,1000,990,10
+"January, 2021",Personal Expenses,Person 4,1000,113,887
+"January, 2021",Doctor and Medicines,Consulting,1000,500,500
+"January, 2021",Doctor and Medicines,Medicine,7000,5000,2000
+"January, 2021",Outing,Food ,3000,2000,1000
+"January, 2021",Outing,Drinks,1000,923,77
+"January, 2021",Entertainment and Tours,Movies,0,0,0
+"January, 2021",Entertainment and Tours,Parties,2000,1674,326
+"January, 2021",Entertainment and Tours,Outstation Visits,3000,1300,1700
+"January, 2021",Rituals and Gifts,Festivals,3000,1000,2000
+"January, 2021",Rituals and Gifts,Ceremonies,7000,5000,2000
+"January, 2021",Rituals and Gifts,Rituals and Gifts Miscellenous,2500,1000,1500
+"January, 2021",Education,Educational Fees (Half Yearly),48500,48500,0
+"January, 2021",Education,Books and Stationary,1000,890,110
+"January, 2021",Education,Project Expenses,100,56,44
+"January, 2021",Education,Educational Visits/ Tours,0,0,0
+"January, 2021",Education,Educational Transport,20000,8500,11500
+"January, 2021",Insurances,Vehicle Insurance (Yearly),5000,4900,100
+"January, 2021",Insurances,Life Insurance (Yearly),5000,5000,0
+"January, 2021",Insurances,Mediclaims,430,400,30
+"January, 2021",Insurances,Accident Insurance (Yearly),1000,500,500
+"January, 2021",Insurances,Home Insurance(Yearly),3000,1000,2000
+"January, 2021",Loans and EMI,Vehicle Loan EMI (Yearly),19000,17800,1200
+"January, 2021",Loans and EMI,Home Loan EMI (Yearly),34500,34500,0
+"January, 2021",Loans and EMI,Personal Loan EMI (Yearly),7500,7000,500
+"January, 2021",Benefits and Bonus,Benefits,1000,0,1000
+"January, 2021",Benefits and Bonus,Bonus (Yearly),5000,0,5000
+"February, 2021",Groceries,Vegetables,1500,1780,-280
+"February, 2021",Groceries,Grains,4000,3464,536
+"February, 2021",Groceries,Milk,2000,1400,600
+"February, 2021",Groceries,Dairy Products,500,765,-265
+"February, 2021",Groceries,Groceries Miscellenous,1000,110,890
+"February, 2021",Utility and Fuel,Electricity,1500,1000,500
+"February, 2021",Utility and Fuel,Gas,1600,1499,101
+"February, 2021",Utility and Fuel,Petrol,4000,4032,-32
+"February, 2021",Communication,Phone,1000,800,200
+"February, 2021",Communication,Internet (Half-Yearly),0,0,0
+"February, 2021",Transport,Local,500,200,300
+"February, 2021",Transport,Non-Local,0,0,0
+"February, 2021",Services,Laundry,200,100,100
+"February, 2021",Services,Gardening,200,200,0
+"February, 2021",Services,Cleaning,650,500,150
+"February, 2021",Services,Trash,500,500,0
+"February, 2021",Services,Stationary,200,100,100
+"February, 2021",Maintainance,Society,1000,1200,-200
+"February, 2021",Maintainance,Repairs,0,532,-532
+"February, 2021",Maintainance,Security,30000,30000,0
+"February, 2021",Maintainance,Home improvements,2000,570,1430
+"February, 2021",New Purchases,Apparel,1000,1050,-50
+"February, 2021",New Purchases,Home Appliances,0,0,0
+"February, 2021",New Purchases,Vehicle,0,0,0
+"February, 2021",Personal Expenses,Person 1,1000,320,680
+"February, 2021",Personal Expenses,Person 2,1000,231,769
+"February, 2021",Personal Expenses,Person 3,1000,543,457
+"February, 2021",Personal Expenses,Person 4,1000,0,1000
+"February, 2021",Doctor and Medicines,Consulting,1000,0,1000
+"February, 2021",Doctor and Medicines,Medicine,7000,4984,2016
+"February, 2021",Outing,Food ,3000,3465,-465
+"February, 2021",Outing,Drinks,1000,1000,0
+"February, 2021",Entertainment and Tours,Movies,1000,430,570
+"February, 2021",Entertainment and Tours,Parties,1000,0,1000
+"February, 2021",Entertainment and Tours,Outstation Visits,0,0,0
+"February, 2021",Rituals and Gifts,Festivals,0,0,0
+"February, 2021",Rituals and Gifts,Ceremonies,2000,1200,800
+"February, 2021",Rituals and Gifts,Rituals and Gifts Miscellenous,1000,0,1000
+"February, 2021",Education,Educational Fees,0,0,0
+"February, 2021",Education,Books and Stationary,1000,50,950
+"February, 2021",Education,Project Expenses,100,0,100
+"February, 2021",Education,Educational Visits/ Tours,0,0,0
+"February, 2021",Education,Educational Transport,0,0,0
+"February, 2021",Insurances,Vehicle Insurance (Yearly),0,0,0
+"February, 2021",Insurances,Life Insurance (Yearly),0,0,0
+"February, 2021",Insurances,Mediclaims,430,400,30
+"February, 2021",Insurances,Accident Insurance (Yearly),0,0,0
+"February, 2021",Insurances,Home Insurance(Yearly),0,0,0
+"February, 2021",Loans and EMI,Vehicle Loan EMI (Yearly),0,0,0
+"February, 2021",Loans and EMI,Home Loan EMI (Yearly),0,0,0
+"February, 2021",Loans and EMI,Personal Loan EMI (Yearly),0,0,0
+"February, 2021",Benefits and Bonus,Benefits,1000,350,650
+"February, 2021",Benefits and Bonus,Bonus (Yearly),0,0,0
+"March, 2021",Groceries,Vegetables,1500,865,635
+"March, 2021",Groceries,Grains,4000,3356,644
+"March, 2021",Groceries,Milk,2000,609,1391
+"March, 2021",Groceries,Dairy Products,500,200,300
+"March, 2021",Groceries,Groceries Miscellenous,1000,0,1000
+"March, 2021",Utility and Fuel,Electricity,1500,677,823
+"March, 2021",Utility and Fuel,Gas,1600,890,710
+"March, 2021",Utility and Fuel,Petrol,4000,3500,500
+"March, 2021",Communication,Phone,1000,350,650
+"March, 2021",Communication,Internet (Half-Yearly),0,0,0
+"March, 2021",Transport,Local,500,360,140
+"March, 2021",Transport,Non-Local,0,0,0
+"March, 2021",Services,Laundry,200,50,150
+"March, 2021",Services,Gardening,200,100,100
+"March, 2021",Services,Cleaning,650,500,150
+"March, 2021",Services,Trash,500,500,0
+"March, 2021",Services,Stationary,200,10,190
+"March, 2021",Maintainance,Society,1000,500,500
+"March, 2021",Maintainance,Repairs,0,240,-240
+"March, 2021",Maintainance,Security,30000,30000,0
+"March, 2021",Maintainance,Home improvements,2000,320,1680
+"March, 2021",New Purchases,Apparel,1000,0,1000
+"March, 2021",New Purchases,Home Appliances,0,0,0
+"March, 2021",New Purchases,Vehicle,0,0,0
+"March, 2021",Personal Expenses,Person 1,1000,1134,-134
+"March, 2021",Personal Expenses,Person 2,1000,542,458
+"March, 2021",Personal Expenses,Person 3,1000,654,346
+"March, 2021",Personal Expenses,Person 4,1000,986,14
+"March, 2021",Doctor and Medicines,Consulting,1000,0,1000
+"March, 2021",Doctor and Medicines,Medicine,7000,3000,4000
+"March, 2021",Outing,Food ,3000,2542,458
+"March, 2021",Outing,Drinks,1000,670,330
+"March, 2021",Entertainment and Tours,Movies,0,0,0
+"March, 2021",Entertainment and Tours,Parties,1000,0,1000
+"March, 2021",Entertainment and Tours,Outstation Visits,0,0,0
+"March, 2021",Rituals and Gifts,Festivals,3000,1565,1435
+"March, 2021",Rituals and Gifts,Ceremonies,2000,0,2000
+"March, 2021",Rituals and Gifts,Rituals and Gifts Miscellenous,1000,1032,-32
+"March, 2021",Education,Educational Fees,0,0,0
+"March, 2021",Education,Books and Stationary,1000,100,900
+"March, 2021",Education,Project Expenses,100,0,100
+"March, 2021",Education,Educational Visits/ Tours,0,0,0
+"March, 2021",Education,Educational Transport,0,0,0
+"March, 2021",Insurances,Vehicle Insurance (Yearly),0,0,0
+"March, 2021",Insurances,Life Insurance (Yearly),0,0,0
+"March, 2021",Insurances,Mediclaims,430,400,30
+"March, 2021",Insurances,Accident Insurance (Yearly),0,0,0
+"March, 2021",Insurances,Home Insurance(Yearly),0,0,0
+"March, 2021",Loans and EMI,Vehicle Loan EMI (Yearly),0,0,0
+"March, 2021",Loans and EMI,Home Loan EMI (Yearly),0,0,0
+"March, 2021",Loans and EMI,Personal Loan EMI (Yearly),0,0,0
+"March, 2021",Benefits and Bonus,Benefits,1000,1000,0
+"March, 2021",Benefits and Bonus,Bonus (Yearly),0,0,0
+"April, 2021",Groceries,Vegetables,1500,1352,148
+"April, 2021",Groceries,Grains,4000,4575,-575
+"April, 2021",Groceries,Milk,2000,1900,100
+"April, 2021",Groceries,Dairy Products,500,765,-265
+"April, 2021",Groceries,Groceries Miscellenous,1000,643,357
+"April, 2021",Utility and Fuel,Electricity,1500,1350,150
+"April, 2021",Utility and Fuel,Gas,1600,1600,0
+"April, 2021",Utility and Fuel,Petrol,4000,2350,1650
+"April, 2021",Communication,Phone,1000,299,701
+"April, 2021",Communication,Internet (Half-Yearly),0,0,0
+"April, 2021",Transport,Local,200,197,3
+"April, 2021",Transport,Non-Local,0,0,0
+"April, 2021",Services,Laundry,200,20,180
+"April, 2021",Services,Gardening,200,345,-145
+"April, 2021",Services,Cleaning,500,500,0
+"April, 2021",Services,Trash,500,500,0
+"April, 2021",Services,Stationary,200,20,180
+"April, 2021",Maintainance,Society,1000,978,22
+"April, 2021",Maintainance,Repairs,3000,532,2468
+"April, 2021",Maintainance,Security,30000,30080,-80
+"April, 2021",Maintainance,Home improvements,2000,200,1800
+"April, 2021",New Purchases,Apparel,1000,340,660
+"April, 2021",New Purchases,Home Appliances,0,0,0
+"April, 2021",New Purchases,Vehicle,0,0,0
+"April, 2021",Personal Expenses,Person 1,1000,234,766
+"April, 2021",Personal Expenses,Person 2,1000,656,344
+"April, 2021",Personal Expenses,Person 3,1000,0,1000
+"April, 2021",Personal Expenses,Person 4,1000,454,546
+"April, 2021",Doctor and Medicines,Consulting,1000,0,1000
+"April, 2021",Doctor and Medicines,Medicine,7000,3576,3424
+"April, 2021",Outing,Food ,3000,3465,-465
+"April, 2021",Outing,Drinks,1000,1440,-440
+"April, 2021",Entertainment and Tours,Movies,1000,600,400
+"April, 2021",Entertainment and Tours,Parties,1000,0,1000
+"April, 2021",Entertainment and Tours,Outstation Visits,0,0,0
+"April, 2021",Rituals and Gifts,Festivals,0,0,0
+"April, 2021",Rituals and Gifts,Ceremonies,2000,859,1141
+"April, 2021",Rituals and Gifts,Rituals and Gifts Miscellenous,1000,0,1000
+"April, 2021",Education,Educational Fees,0,0,0
+"April, 2021",Education,Books and Stationary,1000,121,879
+"April, 2021",Education,Project Expenses,100,80,20
+"April, 2021",Education,Educational Visits/ Tours,0,0,0
+"April, 2021",Education,Educational Transport,0,0,0
+"April, 2021",Insurances,Vehicle Insurance (Yearly),0,0,0
+"April, 2021",Insurances,Life Insurance (Yearly),0,0,0
+"April, 2021",Insurances,Mediclaims,430,400,30
+"April, 2021",Insurances,Accident Insurance (Yearly),0,0,0
+"April, 2021",Insurances,Home Insurance(Yearly),0,0,0
+"April, 2021",Loans and EMI,Vehicle Loan EMI (Yearly),0,0,0
+"April, 2021",Loans and EMI,Home Loan EMI (Yearly),0,0,0
+"April, 2021",Loans and EMI,Personal Loan EMI (Yearly),0,0,0
+"April, 2021",Benefits and Bonus,Benefits,1000,0,1000
+"April, 2021",Benefits and Bonus,Bonus (Yearly),0,0,0
+"May, 2021",Groceries,Vegetables,1500,2019,-519
+"May, 2021",Groceries,Grains,4000,5003,-1003
+"May, 2021",Groceries,Milk,2000,1000,1000
+"May, 2021",Groceries,Dairy Products,500,300,200
+"May, 2021",Groceries,Groceries Miscellenous,1000,189,811
+"May, 2021",Utility and Fuel,Electricity,1500,1200,300
+"May, 2021",Utility and Fuel,Gas,1600,1600,0
+"May, 2021",Utility and Fuel,Petrol,4000,2340,1660
+"May, 2021",Communication,Phone,1000,500,500
+"May, 2021",Communication,Internet (Half-Yearly),0,0,0
+"May, 2021",Transport,Local,200,100,100
+"May, 2021",Transport,Non-Local,0,0,0
+"May, 2021",Services,Laundry,200,76,124
+"May, 2021",Services,Gardening,200,100,100
+"May, 2021",Services,Cleaning,500,500,0
+"May, 2021",Services,Trash,500,500,0
+"May, 2021",Services,Stationary,200,0,200
+"May, 2021",Maintainance,Society,1000,0,1000
+"May, 2021",Maintainance,Repairs,3000,0,3000
+"May, 2021",Maintainance,Security,30000,30080,-80
+"May, 2021",Maintainance,Home improvements,2000,0,2000
+"May, 2021",New Purchases,Apparel,1000,0,1000
+"May, 2021",New Purchases,Home Appliances,0,0,0
+"May, 2021",New Purchases,Vehicle,0,0,0
+"May, 2021",Personal Expenses,Person 1,1000,500,500
+"May, 2021",Personal Expenses,Person 2,1000,0,1000
+"May, 2021",Personal Expenses,Person 3,1000,267,733
+"May, 2021",Personal Expenses,Person 4,1000,88,912
+"May, 2021",Doctor and Medicines,Consulting,1000,0,1000
+"May, 2021",Doctor and Medicines,Medicine,7000,6532,468
+"May, 2021",Outing,Food ,3000,800,2200
+"May, 2021",Outing,Drinks,1000,830,170
+"May, 2021",Entertainment and Tours,Movies,1000,0,1000
+"May, 2021",Entertainment and Tours,Parties,1000,840,160
+"May, 2021",Entertainment and Tours,Outstation Visits,0,0,0
+"May, 2021",Rituals and Gifts,Festivals,0,0,0
+"May, 2021",Rituals and Gifts,Ceremonies,2000,0,2000
+"May, 2021",Rituals and Gifts,Rituals and Gifts Miscellenous,1000,0,1000
+"May, 2021",Education,Educational Fees,0,0,0
+"May, 2021",Education,Books and Stationary,1000,324,676
+"May, 2021",Education,Project Expenses,100,0,100
+"May, 2021",Education,Educational Visits/ Tours,0,0,0
+"May, 2021",Education,Educational Transport,0,0,0
+"May, 2021",Insurances,Vehicle Insurance (Yearly),0,0,0
+"May, 2021",Insurances,Life Insurance (Yearly),0,0,0
+"May, 2021",Insurances,Mediclaims,400,400,0
+"May, 2021",Insurances,Accident Insurance (Yearly),0,0,0
+"May, 2021",Insurances,Home Insurance(Yearly),0,0,0
+"May, 2021",Loans and EMI,Vehicle Loan EMI (Yearly),0,0,0
+"May, 2021",Loans and EMI,Home Loan EMI (Yearly),0,0,0
+"May, 2021",Loans and EMI,Personal Loan EMI (Yearly),0,0,0
+"May, 2021",Benefits and Bonus,Benefits,1000,765,235
+"May, 2021",Benefits and Bonus,Bonus (Yearly),0,0,0
+"June, 2021",Groceries,Vegetables,1500,1278,222
+"June, 2021",Groceries,Grains,4000,3898,102
+"June, 2021",Groceries,Milk,2000,1800,200
+"June, 2021",Groceries,Dairy Products,500,450,50
+"June, 2021",Groceries,Groceries Miscellenous,1000,0,1000
+"June, 2021",Utility and Fuel,Electricity,1500,777,723
+"June, 2021",Utility and Fuel,Gas,1600,569,1031
+"June, 2021",Utility and Fuel,Petrol,4000,4537,-537
+"June, 2021",Communication,Phone,1000,299,701
+"June, 2021",Communication,Internet (Half-Yearly),0,0,0
+"June, 2021",Transport,Local,200,230,-30
+"June, 2021",Transport,Non-Local,0,0,0
+"June, 2021",Services,Laundry,200,15,185
+"June, 2021",Services,Gardening,200,100,100
+"June, 2021",Services,Cleaning,500,500,0
+"June, 2021",Services,Trash,500,500,0
+"June, 2021",Services,Stationary,200,57,143
+"June, 2021",Maintainance,Society,1000,0,1000
+"June, 2021",Maintainance,Repairs,3000,0,3000
+"June, 2021",Maintainance,Security,30000,30000,0
+"June, 2021",Maintainance,Home improvements,2000,0,2000
+"June, 2021",New Purchases,Apparel,1000,790,210
+"June, 2021",New Purchases,Home Appliances,0,0,0
+"June, 2021",New Purchases,Vehicle,0,0,0
+"June, 2021",Personal Expenses,Person 1,1000,890,110
+"June, 2021",Personal Expenses,Person 2,1000,446,554
+"June, 2021",Personal Expenses,Person 3,1000,456,544
+"June, 2021",Personal Expenses,Person 4,1000,876,124
+"June, 2021",Doctor and Medicines,Consulting,1000,0,1000
+"June, 2021",Doctor and Medicines,Medicine,7000,5464,1536
+"June, 2021",Outing,Food ,3000,1030,1970
+"June, 2021",Outing,Drinks,1000,534,466
+"June, 2021",Entertainment and Tours,Movies,1000,0,1000
+"June, 2021",Entertainment and Tours,Parties,1000,0,1000
+"June, 2021",Entertainment and Tours,Outstation Visits,0,0,0
+"June, 2021",Rituals and Gifts,Festivals,0,0,0
+"June, 2021",Rituals and Gifts,Ceremonies,2000,0,2000
+"June, 2021",Rituals and Gifts,Rituals and Gifts Miscellenous,1000,0,1000
+"June, 2021",Education,Educational Fees,0,0,0
+"June, 2021",Education,Books and Stationary,1000,120,880
+"June, 2021",Education,Project Expenses,100,0,100
+"June, 2021",Education,Educational Visits/ Tours,0,0,0
+"June, 2021",Education,Educational Transport,0,0,0
+"June, 2021",Insurances,Vehicle Insurance (Yearly),0,0,0
+"June, 2021",Insurances,Life Insurance (Yearly),0,0,0
+"June, 2021",Insurances,Mediclaims,400,400,0
+"June, 2021",Insurances,Accident Insurance (Yearly),0,0,0
+"June, 2021",Insurances,Home Insurance(Yearly),0,0,0
+"June, 2021",Loans and EMI,Vehicle Loan EMI (Yearly),0,0,0
+"June, 2021",Loans and EMI,Home Loan EMI (Yearly),0,0,0
+"June, 2021",Loans and EMI,Personal Loan EMI (Yearly),0,0,0
+"June, 2021",Benefits and Bonus,Benefits,1000,450,550
+"June, 2021",Benefits and Bonus,Bonus (Yearly),0,0,0
+"July, 2021",Groceries,Vegetables,1500,1399,101
+"July, 2021",Groceries,Grains,4000,4000,0
+"July, 2021",Groceries,Milk,2000,1004,996
+"July, 2021",Groceries,Dairy Products,500,230,270
+"July, 2021",Groceries,Groceries Miscellenous,1000,100,900
+"July, 2021",Utility and Fuel,Electricity,1500,990,510
+"July, 2021",Utility and Fuel,Gas,1600,1482,118
+"July, 2021",Utility and Fuel,Petrol,4000,3964,36
+"July, 2021",Communication,Phone,1000,563,437
+"July, 2021",Communication,Internet (Half-Yearly),5000,4832,168
+"July, 2021",Transport,Local,200,20,180
+"July, 2021",Transport,Non-Local,0,0,0
+"July, 2021",Services,Laundry,200,45,155
+"July, 2021",Services,Gardening,200,100,100
+"July, 2021",Services,Cleaning,500,500,0
+"July, 2021",Services,Trash,500,500,0
+"July, 2021",Services,Stationary,200,90,110
+"July, 2021",Maintainance,Society,1000,455,545
+"July, 2021",Maintainance,Repairs,3000,870,2130
+"July, 2021",Maintainance,Security,30000,30000,0
+"July, 2021",Maintainance,Home improvements,2000,340,1660
+"July, 2021",New Purchases,Apparel,1000,0,1000
+"July, 2021",New Purchases,Home Appliances,0,0,0
+"July, 2021",New Purchases,Vehicle,0,0,0
+"July, 2021",Personal Expenses,Person 1,1000,230,770
+"July, 2021",Personal Expenses,Person 2,1000,0,1000
+"July, 2021",Personal Expenses,Person 3,1000,432,568
+"July, 2021",Personal Expenses,Person 4,1000,500,500
+"July, 2021",Doctor and Medicines,Consulting,1000,0,1000
+"July, 2021",Doctor and Medicines,Medicine,7000,3425,3575
+"July, 2021",Outing,Food ,3000,990,2010
+"July, 2021",Outing,Drinks,1000,45,955
+"July, 2021",Entertainment and Tours,Movies,1000,0,1000
+"July, 2021",Entertainment and Tours,Parties,1000,0,1000
+"July, 2021",Entertainment and Tours,Outstation Visits,0,0,0
+"July, 2021",Rituals and Gifts,Festivals,0,0,0
+"July, 2021",Rituals and Gifts,Ceremonies,2000,0,2000
+"July, 2021",Rituals and Gifts,Rituals and Gifts Miscellenous,1000,0,1000
+"July, 2021",Education,Educational Fees,0,0,0
+"July, 2021",Education,Books and Stationary,1000,0,1000
+"July, 2021",Education,Project Expenses,100,0,100
+"July, 2021",Education,Educational Visits/ Tours,0,0,0
+"July, 2021",Education,Educational Transport,0,0,0
+"July, 2021",Insurances,Vehicle Insurance (Yearly),0,0,0
+"July, 2021",Insurances,Life Insurance (Yearly),0,0,0
+"July, 2021",Insurances,Mediclaims,400,400,0
+"July, 2021",Insurances,Accident Insurance (Yearly),0,0,0
+"July, 2021",Insurances,Home Insurance(Yearly),0,0,0
+"July, 2021",Loans and EMI,Vehicle Loan EMI (Yearly),0,0,0
+"July, 2021",Loans and EMI,Home Loan EMI (Yearly),0,0,0
+"July, 2021",Loans and EMI,Personal Loan EMI (Yearly),0,0,0
+"July, 2021",Benefits and Bonus,Benefits,1000,222,778
+"July, 2021",Benefits and Bonus,Bonus (Yearly),0,0,0
+"August, 2021",Groceries,Vegetables,1500,1499,1
+"August, 2021",Groceries,Grains,4000,3452,548
+"August, 2021",Groceries,Milk,2000,2100,-100
+"August, 2021",Groceries,Dairy Products,500,400,100
+"August, 2021",Groceries,Groceries Miscellenous,1000,300,700
+"August, 2021",Utility and Fuel,Electricity,1500,1324,176
+"August, 2021",Utility and Fuel,Gas,1600,1234,366
+"August, 2021",Utility and Fuel,Petrol,4000,3253,747
+"August, 2021",Communication,Phone,1000,230,770
+"August, 2021",Communication,Internet (Half-Yearly),0,0,0
+"August, 2021",Transport,Local,200,45,155
+"August, 2021",Transport,Non-Local,0,0,0
+"August, 2021",Services,Laundry,200,80,120
+"August, 2021",Services,Gardening,200,123,77
+"August, 2021",Services,Cleaning,500,500,0
+"August, 2021",Services,Trash,500,500,0
+"August, 2021",Services,Stationary,200,0,200
+"August, 2021",Maintainance,Society,1000,679,321
+"August, 2021",Maintainance,Repairs,3000,0,3000
+"August, 2021",Maintainance,Security,30000,30000,0
+"August, 2021",Maintainance,Home improvements,2000,0,2000
+"August, 2021",New Purchases,Apparel,1000,1113,-113
+"August, 2021",New Purchases,Home Appliances,0,0,0
+"August, 2021",New Purchases,Vehicle,0,0,0
+"August, 2021",Personal Expenses,Person 1,1000,500,500
+"August, 2021",Personal Expenses,Person 2,1000,530,470
+"August, 2021",Personal Expenses,Person 3,1000,500,500
+"August, 2021",Personal Expenses,Person 4,1000,500,500
+"August, 2021",Doctor and Medicines,Consulting,1000,0,1000
+"August, 2021",Doctor and Medicines,Medicine,7000,5467,1533
+"August, 2021",Outing,Food ,3000,1500,1500
+"August, 2021",Outing,Drinks,1000,300,700
+"August, 2021",Entertainment and Tours,Movies,1000,0,1000
+"August, 2021",Entertainment and Tours,Parties,3500,4000,-500
+"August, 2021",Entertainment and Tours,Outstation Visits,0,0,0
+"August, 2021",Rituals and Gifts,Festivals,0,0,0
+"August, 2021",Rituals and Gifts,Ceremonies,2000,0,2000
+"August, 2021",Rituals and Gifts,Rituals and Gifts Miscellenous,1000,600,400
+"August, 2021",Education,Educational Fees,0,0,0
+"August, 2021",Education,Books and Stationary,1000,0,1000
+"August, 2021",Education,Project Expenses,100,0,100
+"August, 2021",Education,Educational Visits/ Tours,0,0,0
+"August, 2021",Education,Educational Transport,8500,8500,0
+"August, 2021",Insurances,Vehicle Insurance (Yearly),0,0,0
+"August, 2021",Insurances,Life Insurance (Yearly),0,0,0
+"August, 2021",Insurances,Mediclaims,400,400,0
+"August, 2021",Insurances,Accident Insurance (Yearly),0,0,0
+"August, 2021",Insurances,Home Insurance(Yearly),0,0,0
+"August, 2021",Loans and EMI,Vehicle Loan EMI (Yearly),0,0,0
+"August, 2021",Loans and EMI,Home Loan EMI (Yearly),0,0,0
+"August, 2021",Loans and EMI,Personal Loan EMI (Yearly),0,0,0
+"August, 2021",Benefits and Bonus,Benefits,1000,993,7
+"August, 2021",Benefits and Bonus,Bonus (Yearly),0,0,0
+"September, 2021",Groceries,Vegetables,1500,1000,500
+"September, 2021",Groceries,Grains,4000,4332,-332
+"September, 2021",Groceries,Milk,2000,1000,1000
+"September, 2021",Groceries,Dairy Products,500,100,400
+"September, 2021",Groceries,Groceries Miscellenous,1000,0,1000
+"September, 2021",Utility and Fuel,Electricity,1500,1000,500
+"September, 2021",Utility and Fuel,Gas,1600,800,800
+"September, 2021",Utility and Fuel,Petrol,4000,4000,0
+"September, 2021",Communication,Phone,1000,100,900
+"September, 2021",Communication,Internet (Half-Yearly),0,0,0
+"September, 2021",Transport,Local,200,50,150
+"September, 2021",Transport,Non-Local,0,0,0
+"September, 2021",Services,Laundry,200,20,180
+"September, 2021",Services,Gardening,200,100,100
+"September, 2021",Services,Cleaning,500,500,0
+"September, 2021",Services,Trash,500,500,0
+"September, 2021",Services,Stationary,200,0,200
+"September, 2021",Maintainance,Society,1000,0,1000
+"September, 2021",Maintainance,Repairs,3000,0,3000
+"September, 2021",Maintainance,Security,30000,30000,0
+"September, 2021",Maintainance,Home improvements,2000,0,2000
+"September, 2021",New Purchases,Apparel,1000,0,1000
+"September, 2021",New Purchases,Home Appliances,0,0,0
+"September, 2021",New Purchases,Vehicle,0,0,0
+"September, 2021",Personal Expenses,Person 1,1000,0,1000
+"September, 2021",Personal Expenses,Person 2,1000,0,1000
+"September, 2021",Personal Expenses,Person 3,1000,0,1000
+"September, 2021",Personal Expenses,Person 4,1000,400,600
+"September, 2021",Doctor and Medicines,Consulting,1000,0,1000
+"September, 2021",Doctor and Medicines,Medicine,7000,3333,3667
+"September, 2021",Outing,Food ,3000,400,2600
+"September, 2021",Outing,Drinks,1000,100,900
+"September, 2021",Entertainment and Tours,Movies,1000,0,1000
+"September, 2021",Entertainment and Tours,Parties,3500,0,3500
+"September, 2021",Entertainment and Tours,Outstation Visits,0,0,0
+"September, 2021",Rituals and Gifts,Festivals,0,0,0
+"September, 2021",Rituals and Gifts,Ceremonies,2000,0,2000
+"September, 2021",Rituals and Gifts,Rituals and Gifts Miscellenous,1000,0,1000
+"September, 2021",Education,Educational Fees (Half Yearly),48500,48500,0
+"September, 2021",Education,Books and Stationary,1000,0,1000
+"September, 2021",Education,Project Expenses,100,0,100
+"September, 2021",Education,Educational Visits/ Tours,0,0,0
+"September, 2021",Education,Educational Transport,0,0,0
+"September, 2021",Insurances,Vehicle Insurance (Yearly),0,0,0
+"September, 2021",Insurances,Life Insurance (Yearly),0,0,0
+"September, 2021",Insurances,Mediclaims,400,400,0
+"September, 2021",Insurances,Accident Insurance (Yearly),0,0,0
+"September, 2021",Insurances,Home Insurance(Yearly),0,0,0
+"September, 2021",Loans and EMI,Vehicle Loan EMI (Yearly),0,0,0
+"September, 2021",Loans and EMI,Home Loan EMI (Yearly),0,0,0
+"September, 2021",Loans and EMI,Personal Loan EMI (Yearly),0,0,0
+"September, 2021",Benefits and Bonus,Benefits,1000,0,1000
+"September, 2021",Benefits and Bonus,Bonus (Yearly),0,0,0
+"October, 2021",Groceries,Vegetables,1500,1000,500
+"October, 2021",Groceries,Grains,4000,3222,778
+"October, 2021",Groceries,Milk,2000,500,1500
+"October, 2021",Groceries,Dairy Products,500,0,500
+"October, 2021",Groceries,Groceries Miscellenous,1000,0,1000
+"October, 2021",Utility and Fuel,Electricity,1500,660,840
+"October, 2021",Utility and Fuel,Gas,1600,800,800
+"October, 2021",Utility and Fuel,Petrol,4000,3456,544
+"October, 2021",Communication,Phone,1000,0,1000
+"October, 2021",Communication,Internet (Half-Yearly),0,0,0
+"October, 2021",Transport,Local,200,230,-30
+"October, 2021",Transport,Non-Local,0,0,0
+"October, 2021",Services,Laundry,200,20,180
+"October, 2021",Services,Gardening,200,100,100
+"October, 2021",Services,Cleaning,500,500,0
+"October, 2021",Services,Trash,500,500,0
+"October, 2021",Services,Stationary,200,0,200
+"October, 2021",Maintainance,Society,1000,0,1000
+"October, 2021",Maintainance,Repairs,3000,0,3000
+"October, 2021",Maintainance,Security,30000,30000,0
+"October, 2021",Maintainance,Home improvements,2000,1000,1000
+"October, 2021",New Purchases,Apparel,1000,3500,-2500
+"October, 2021",New Purchases,Home Appliances,0,0,0
+"October, 2021",New Purchases,Vehicle,0,0,0
+"October, 2021",Personal Expenses,Person 1,1000,0,1000
+"October, 2021",Personal Expenses,Person 2,1000,0,1000
+"October, 2021",Personal Expenses,Person 3,1000,0,1000
+"October, 2021",Personal Expenses,Person 4,1000,0,1000
+"October, 2021",Doctor and Medicines,Consulting,1000,0,1000
+"October, 2021",Doctor and Medicines,Medicine,7000,2001,4999
+"October, 2021",Outing,Food ,3000,300,2700
+"October, 2021",Outing,Drinks,1000,0,1000
+"October, 2021",Entertainment and Tours,Movies,1000,0,1000
+"October, 2021",Entertainment and Tours,Parties,3500,0,3500
+"October, 2021",Entertainment and Tours,Outstation Visits,0,0,0
+"October, 2021",Rituals and Gifts,Festivals,0,0,0
+"October, 2021",Rituals and Gifts,Ceremonies,2000,0,2000
+"October, 2021",Rituals and Gifts,Rituals and Gifts Miscellenous,1000,0,1000
+"October, 2021",Education,Educational Fees,0,0,0
+"October, 2021",Education,Books and Stationary,1000,0,1000
+"October, 2021",Education,Project Expenses,100,0,100
+"October, 2021",Education,Educational Visits/ Tours,0,0,0
+"October, 2021",Education,Educational Transport,0,0,0
+"October, 2021",Insurances,Vehicle Insurance (Yearly),0,0,0
+"October, 2021",Insurances,Life Insurance (Yearly),0,0,0
+"October, 2021",Insurances,Mediclaims,400,400,0
+"October, 2021",Insurances,Accident Insurance (Yearly),0,0,0
+"October, 2021",Insurances,Home Insurance(Yearly),0,0,0
+"October, 2021",Loans and EMI,Vehicle Loan EMI (Yearly),0,0,0
+"October, 2021",Loans and EMI,Home Loan EMI (Yearly),0,0,0
+"October, 2021",Loans and EMI,Personal Loan EMI (Yearly),0,0,0
+"October, 2021",Benefits and Bonus,Benefits,1000,0,1000
+"October, 2021",Benefits and Bonus,Bonus (Yearly),0,0,0
+"November, 2021",Groceries,Vegetables,1500,1000,500
+"November, 2021",Groceries,Grains,4000,5000,-1000
+"November, 2021",Groceries,Milk,2000,1400,600
+"November, 2021",Groceries,Dairy Products,500,600,-100
+"November, 2021",Groceries,Groceries Miscellenous,1000,0,1000
+"November, 2021",Utility and Fuel,Electricity,1500,660,840
+"November, 2021",Utility and Fuel,Gas,1600,800,800
+"November, 2021",Utility and Fuel,Petrol,4000,2000,2000
+"November, 2021",Communication,Phone,1000,300,700
+"November, 2021",Communication,Internet (Half-Yearly),0,0,0
+"November, 2021",Transport,Local,200,300,-100
+"November, 2021",Transport,Non-Local,0,0,0
+"November, 2021",Services,Laundry,200,40,160
+"November, 2021",Services,Gardening,200,100,100
+"November, 2021",Services,Cleaning,500,500,0
+"November, 2021",Services,Trash,500,500,0
+"November, 2021",Services,Stationary,200,0,200
+"November, 2021",Maintainance,Society,1000,0,1000
+"November, 2021",Maintainance,Repairs,3000,0,3000
+"November, 2021",Maintainance,Security,30000,30000,0
+"November, 2021",Maintainance,Home improvements,2000,2000,0
+"November, 2021",New Purchases,Apparel,4500,5000,-500
+"November, 2021",New Purchases,Home Appliances,0,0,0
+"November, 2021",New Purchases,Vehicle,0,0,0
+"November, 2021",Personal Expenses,Person 1,1000,200,800
+"November, 2021",Personal Expenses,Person 2,1000,534,466
+"November, 2021",Personal Expenses,Person 3,1000,743,257
+"November, 2021",Personal Expenses,Person 4,1000,466,534
+"November, 2021",Doctor and Medicines,Consulting,1000,0,1000
+"November, 2021",Doctor and Medicines,Medicine,7000,3052,3948
+"November, 2021",Outing,Food ,3000,2054,946
+"November, 2021",Outing,Drinks,1000,500,500
+"November, 2021",Entertainment and Tours,Movies,1000,0,1000
+"November, 2021",Entertainment and Tours,Parties,3500,2355,1145
+"November, 2021",Entertainment and Tours,Outstation Visits,0,0,0
+"November, 2021",Rituals and Gifts,Festivals,2000,3000,-1000
+"November, 2021",Rituals and Gifts,Ceremonies,2000,0,2000
+"November, 2021",Rituals and Gifts,Rituals and Gifts Miscellenous,1000,0,1000
+"November, 2021",Education,Educational Fees,0,0,0
+"November, 2021",Education,Books and Stationary,1000,0,1000
+"November, 2021",Education,Project Expenses,100,0,100
+"November, 2021",Education,Educational Visits/ Tours,0,0,0
+"November, 2021",Education,Educational Transport,0,0,0
+"November, 2021",Insurances,Vehicle Insurance (Yearly),0,0,0
+"November, 2021",Insurances,Life Insurance (Yearly),0,0,0
+"November, 2021",Insurances,Mediclaims,400,400,0
+"November, 2021",Insurances,Accident Insurance (Yearly),0,0,0
+"November, 2021",Insurances,Home Insurance(Yearly),0,0,0
+"November, 2021",Loans and EMI,Vehicle Loan EMI (Yearly),0,0,0
+"November, 2021",Loans and EMI,Home Loan EMI (Yearly),0,0,0
+"November, 2021",Loans and EMI,Personal Loan EMI (Yearly),0,0,0
+"November, 2021",Benefits and Bonus,Benefits,1000,0,1000
+"November, 2021",Benefits and Bonus,Bonus (Yearly),0,0,0
